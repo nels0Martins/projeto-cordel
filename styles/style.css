@@ -16,7 +16,9 @@
    
 }
 
-
+.principal {
+    margin: 20px auto;
+}
 
 html, body {
     background-color: darkgrey;
